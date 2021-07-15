@@ -1,0 +1,34 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Geral ===================== */
+
+/** Geral >> Ast desktop header site header above section left **/
+#ast-desktop-header .site-header-above-section-left {
+	
+}
+
+/** Geral >> Widgets Rodapé **/
+#colophon {
+	
+}
+
+/** Geral >> TESTE **/
+#colophon .ast-builder-grid-row-container-inner {
+	padding-bottom: - !important;
+	clear: none !important;
+}
+
+/** Geral >> Topo cabeçalho **/
+#ast-desktop-header .site-primary-header-wrap {
+	height: 130px !important;
+	position: static !important;
+	float: none !important;
+	visibility: visible !important;
+}
+
+/** Geral >> Widget 1 **/
+Widget 1 {
+	
+}
+
